@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xkt:home|Door43 (xkt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xkt|d43-xkt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xkt/archive/master.zip|d43-xkt.zip]]
+
+**Recent Changes**
+{{changes>ns = xkt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xkt|Ethnologue data]]
+
